@@ -1,5 +1,7 @@
 // Menu com switch-case
 
+const prompt = require("prompt-sync")();
+
 const nota = parseFloat(prompt("Digite uma nota entre 0 e 10:"));
 
 if (nota < 0 || nota > 10) {

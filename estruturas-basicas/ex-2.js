@@ -1,5 +1,7 @@
 // Classificação de idade
 
+const prompt = require("prompt-sync")();
+
 const idade = parseInt(prompt("Digite sua idade:"));
 let categoria;
 

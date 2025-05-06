@@ -1,5 +1,7 @@
 // Fatorial
 
+const prompt = require("prompt-sync")();
+
 const numero = parseInt(prompt("Digite um número para calcular o fatorial:"));
 let resultado = 1;
 let i = numero;

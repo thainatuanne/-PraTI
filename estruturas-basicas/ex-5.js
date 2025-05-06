@@ -1,5 +1,7 @@
 // Cálculo de IMC
 
+const prompt = require("prompt-sync")();
+
 const peso = parseFloat(prompt("Digite o peso em kg:"));
 const altura = parseFloat(prompt("Digite a altura em metros:"));
 

@@ -1,5 +1,7 @@
 // Média de decimais até 0
 
+const prompt = require("prompt-sync")();
+
 let soma = 0;
 let count = 0;
 let entrada;

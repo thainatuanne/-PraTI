@@ -1,5 +1,7 @@
 // Tipo de triângulo
 
+const prompt = require("prompt-sync")();
+
 const a = parseFloat(prompt("Lado A:"));
 const b = parseFloat(prompt("Lado B:"));
 const c = parseFloat(prompt("Lado C:"));

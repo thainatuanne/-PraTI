@@ -1,5 +1,7 @@
 // Ordem crescente
 
+const prompt = require("prompt-sync")();
+
 const valor1 = parseFloat(prompt("Digite o primeiro valor:"));
 const valor2 = parseFloat(prompt("Digite o segundo valor:"));
 

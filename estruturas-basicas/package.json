@@ -1,0 +1,16 @@
+{
+  "name": "estruturas-basicas",
+  "version": "1.0.0",
+  "description": "Este repositório contém a implementação de 15 exercícios de lógica de programação utilizando JavaScript. Os desafios abordam conceitos fundamentais como:",
+  "main": "ex-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
